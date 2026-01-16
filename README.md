@@ -1,4 +1,4 @@
-# Azure Data Factory Beginner Lab – Sample Data
+# Azure AIML Data Factory Beginner Lab – Sample Data
 
 This repository contains sample CSV files used as source data
 for the Azure AIML Data Factory  hands-on lab.
